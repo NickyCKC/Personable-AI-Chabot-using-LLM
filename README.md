@@ -18,8 +18,8 @@ An Object-Oriented, low-latency AI chatbot designed as an "Optimistic Gaming Com
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/razer-ai-chatbot.git](https://github.com/yourusername/razer-ai-chatbot.git)
-   cd razer-ai-chatbot
+   git clone [https://github.com/NickyCKC/Personable-AI-Chabot-using-LLM.git](https://github.com/NickyCKC/Personable-AI-Chabot-using-LLM.git)
+   cd Personable-AI-Chabot-using-LLM
    ```
 
 3. **Install the required dependencies:**
